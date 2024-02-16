@@ -95,6 +95,34 @@ body {
 
 /* 3rd Section  */
 
+.address {
+  background-color: rgb(253, 226, 226);
+  width: 1320px;
+  height: 482px;
+  margin-left: 17%;
+  border-radius: 20px;
+  margin-top: 100px;
+}
+.address-txt {
+  font-size: 25px;
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bolder;
+}
+
+.btn-2 {
+  text-decoration: none;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  margin-left: 600px;
+  margin-top: 30px;
+}
+
+/* 4th section */
+
 .img-adj-4 {
   border: solid red 19px;
   border-radius: 360px;
@@ -127,7 +155,35 @@ body {
   width: 60%;
 }
 
-/* 4th Section */
+/* 5th Section */
+
+.txt-adj-10 {
+  text-align: center;
+  margin-top: 150px;
+  font-weight: bold;
+}
+
+.girl {
+  top: 4000px;
+  right: 13.59%;
+}
+
+.red-banner {
+  left: 17%;
+  top: 4432px;
+}
+
+.gift {
+  top: 4000px;
+  left: 370px;
+}
+
+.ball {
+  top: 4120px;
+  left: 1050px;
+}
+
+/* 6th section */
 
 .Portfolio {
   display: grid;
@@ -138,7 +194,7 @@ body {
 }
 
 .txt-adj-8 {
-  margin-top: 150px;
+  margin-top: 1050px;
   margin-left: 17%;
 }
 
@@ -150,7 +206,7 @@ body {
   box-shadow: 5px 5px 30px;
 }
 
-/* 5th section */
+/* 7th section */
 
 .sub {
   background-color: #ff00000d;
