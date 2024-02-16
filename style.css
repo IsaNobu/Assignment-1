@@ -1,0 +1,93 @@
+/* Common Codes */
+body {
+    margin: 0;
+    font-family: "Merriweather", serif;
+
+}
+
+.red {
+    color: red;
+}
+
+.absolute {
+    position: absolute;
+}
+
+/* Banner */
+
+.img-adj {
+    position: relative;
+    top: 50px;
+    left: 17%;
+    filter: brightness(60%);
+}
+.txt-adj {
+    color: white;
+    top: 160px;
+    left: 37%;
+    text-align: center;
+    font-size: 40px;
+    width: 25%;
+}
+
+/* 1st section */
+
+.txt-adj-1 {
+    margin-top: 180px;
+    text-align: center;
+}
+
+.offer-txt {
+    font-size: 70px;
+}
+
+.font-size {
+    font-size: 25px;
+}
+
+.img-adj-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* 2nd Section */
+
+.second-sct {
+    margin-top: 170px;
+}
+
+.img-adj-2 {
+    margin-left: 17%;
+    filter: brightness(60%);
+}
+
+.txt-adj-2 {
+    width: 40%;
+    margin-top: 50px;
+}
+
+.txt-adj-3 {
+    color: white;
+    font-size: 20px;
+    left: 390px;
+    top: 1990px;
+}
+
+.img-adj-3 {
+    top: 1910px;
+    left: 1100px;
+}
+
+.btn {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.btn:hover{
+    text-decoration: underline white;
+}
